@@ -1,0 +1,3 @@
+*ram.12*ramjeet123
+*cd "c:\Users\babal\OneDrive\Desktop\main\" ; if ($?) { g++ login2.cpp -o login2 } ; if ($?) { .\login2 }*cd "c:\Users\babal\OneDrive\Desktop\main\" ; if ($?) { g++ login2.cpp -o login2 } ; if ($?) { .\login2 }
+ramjeet12*ramjeet123@gmail.com*ramjeet123

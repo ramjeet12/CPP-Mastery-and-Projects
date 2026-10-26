@@ -1,0 +1,42 @@
+Notes:-
+
+
+Components of STL
+    --Containers
+        -- stores data
+        -- Use template classes
+    --Algorithms
+        -Like :
+            --Sorting
+            --Searching
+        --Use template functions
+        --Data Processing
+    --Iterators
+        --Object points to an element in a container
+        --Handled just like pointers
+        --Connects Algorithm with containers
+
+Types of:-
+    --Containers
+        1)Sequence Containers
+            -->Stores data in linear fashion(it shows linearity)
+            Ex : Vector, List, Dequeue
+
+            Vector:-
+                -->Random Access Fast.
+                -->Insertion/deletion slow.
+                -->Insertion, at last, is fast.
+            List:-
+                -->Random Access slow.
+                -->Insertion/Deletion at middle & last is fast.
+        2)Associative Containers
+            -->It is designed for the fastest searchability and deletion.
+            -->Direct Access (Map, Multimap, Set, Multiset).
+            -->Cannot apply for Random Access.
+            -->Random Access is Slow.
+        3)Derived Containers
+            -->Derived from Sequence and Associative Containers.
+            -->Properties Depend on Data Structure.
+            -->Mostly made for real-world modelling.
+            Ex:- Stack(LIFO Structure), queue(FIFO Structure), priority queue.
+
